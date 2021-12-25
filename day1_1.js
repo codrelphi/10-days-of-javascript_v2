@@ -2,6 +2,7 @@
 	date: 25.12.2021
 	auteur: Chancerel Codjovi (aka codrelphi)
 	source: https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem
+	Day 1: Arithmetic Operators
 
 */
 

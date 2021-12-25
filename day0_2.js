@@ -2,6 +2,7 @@
 	date: 25.12.2021
 	auteur: Chancerel Codjovi (aka codrelphi)
 	source: https://www.hackerrank.com/challenges/js10-data-types/problem
+    Day 0: Data Types
 */
 
 function performOperation(secondInteger, secondDecimal, secondString) {
