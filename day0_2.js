@@ -1,7 +1,7 @@
 /*
 	date: 25.12.2021
 	auteur: Chancerel Codjovi (aka codrelphi)
-	source: 
+	source: https://www.hackerrank.com/challenges/js10-data-types/problem
 */
 
 function performOperation(secondInteger, secondDecimal, secondString) {
