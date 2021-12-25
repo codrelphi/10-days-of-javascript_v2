@@ -1,6 +1,6 @@
 /*
 	date: 25.12.2021
-	auteur: Chancerel Codjovi
+	auteur: Chancerel Codjovi (aka codrelphi)
 	source: 
 */
 
