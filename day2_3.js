@@ -26,7 +26,7 @@
 }*/
 
 /* Méthode 2 */ 
-function vowelsAndConsonants(s) {
+/*function vowelsAndConsonants(s) {
     let vowels = [];
     let consonants = [];
     for (let i=0; i<s.length; i++) {
@@ -41,5 +41,21 @@ function vowelsAndConsonants(s) {
     
     vowels.forEach(v => console.log(v));
     consonants.forEach(c => console.log(c));
+    
+}*/
+
+/* Méthode 3 */
+function vowelsAndConsonants(s) {
+    let vowels = [];
+    let consonants = [];
+    let newS = [...s];
+    newS.forEach(v => {
+        if (v == 'a' || v == 'e' || v == 'i' || v == 'o' || v == 'u')                            
+        { vowels.push(v); }  
+        else { consonants.push(v); }
+    });
+    
+    vowels.forEach(v => console.log(v));
+    consonants.forEach(v => console.log(v));
     
 }
