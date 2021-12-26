@@ -1,7 +1,7 @@
 /* 
 	date: 26.12.2021
 	auteur: Chancerel Codjovi (aka codrelphi)
-	source: https://www.hackerrank.com/challenges/js10-function/problem
+	source: https://www.hackerrank.com/challenges/js10-let-and-const/problem
 	Day 1: Let and Const
 
 */
