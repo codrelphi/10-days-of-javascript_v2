@@ -1,5 +1,5 @@
 /*
-	date: 26.12.2021
+	date: 27.12.2021
 	auteur: Chancerel Codjovi (aka codrelphi)
 	source: https://www.hackerrank.com/challenges/js10-try-catch-and-finally
 	Day 3: Try, Catch, and Finally
