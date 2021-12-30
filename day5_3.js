@@ -7,12 +7,8 @@
 
 function modifyArray(nums) {
     let result = [];
-    var ops = n =>  {
-        if (n%2 == 0) return n*2;
-        else return n*3;
-    }
-    for (let n of nums) {
-        result.push(ops(n));
-    }
+     nums.forEach(num => {
+        num % 2 == 0? result.push(num * 2) : result.push(num * 3);
+    });
     return result;
 }
