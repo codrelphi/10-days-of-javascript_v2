@@ -5,3 +5,9 @@
 	Day 7: Regular Expressions III
 */
 
+function regexVar() {
+    
+    let re = /[0-9]+/g;
+   
+    return re;
+}
